@@ -16,6 +16,9 @@
   },
   "author": "Kliment Petrov <kleopetroff@gmail.com>",
   "license": "MIT",
+  "engines": {
+    "node": ">=8"
+  },
   "jest": {
     "setupFiles": [
       "<rootDir>/config/jest/shim.js"
